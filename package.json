@@ -1,0 +1,11 @@
+{
+  "name": "typescript-5i4anz",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase": ">= 5.0.0 <8",
+    "rxfire": "^3.13.5",
+    "rxjs": "^6.6.0",
+    "stencil": "^0.0.5"
+  }
+}
